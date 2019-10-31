@@ -1,0 +1,19 @@
+{
+  "name": "jlai",
+  "version": "1.0.0",
+  "description": "slack bot for not tagging here",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Judy Lai",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "express": "^4.17.1",
+    "json": "^9.0.6",
+    "ngrok": "^3.2.5",
+    "node-fetch": "^2.6.0",
+    "slackbots": "^1.2.0"
+  }
+}
