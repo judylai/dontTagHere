@@ -3,11 +3,13 @@
   "version": "1.0.0",
   "description": "slack bot for not tagging here",
   "main": "index.js",
+  "scripts": {},
   "author": "Judy Lai",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
     "json": "^9.0.6",
+    "lodash": "^4.17.15",
     "node-fetch": "^2.6.0",
     "slackbots": "^1.2.0"
   },
