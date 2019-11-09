@@ -1,0 +1,4 @@
+rm dontTagHere.zip
+zip dontTagHere.zip * -R
+aws s3 cp ~/Projects/dontTagHere/dontTagHere.zip s3://donttagherenew/dontTagHere.zip
+

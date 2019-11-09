@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "slack bot for not tagging here",
   "main": "index.js",
-  "scripts": {
-    "start": "node index.js"
-  },
   "author": "Judy Lai",
   "license": "ISC",
   "dependencies": {
