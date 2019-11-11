@@ -2,7 +2,7 @@ const SlackBot = require('slackbots');
 const http = require('http');
 const fetch = require('node-fetch');
 var URL = require('url').;
-var HttpParams = require('url');
+var {URLSearchParams} = require('url');
 
 const bot = new SlackBot({
 	token: 'xoxb-810148513056-817800946311-Jd2X4TGypOQOLrc8WVCCEzMh',
